@@ -19,3 +19,7 @@ For data visaulization, Power BI is used to make dashboard for the stakeholders.
 6) The top 10 cities has average incremental revenue of 109%.
 7) Home essential 8 product combo has contributed highest in the revenue among all other products.
 8) As the ISU increses the IR increases.
+
+
+https://github.com/SUNNY-GAWANDE/Analyse-Promotions-and-Provide-Tangible-Insights-to-Sales-Director/assets/66326229/37ffc0b1-1235-4f16-8ab7-1afd22be76b3
+
